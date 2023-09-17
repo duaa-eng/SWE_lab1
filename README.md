@@ -1,4 +1,4 @@
 # SWE_lab1
-This repository is to test git and github features for my first swe class lab
+This repository is for my first lab of my software engineering course
 
 in this repo I am practicing git commands
